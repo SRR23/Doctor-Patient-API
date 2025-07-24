@@ -26,4 +26,4 @@ Create a `.env` file in the root of your React project to store environment vari
 ## Run Locally
 
 - npm install
-- node server.js
+- npm start
