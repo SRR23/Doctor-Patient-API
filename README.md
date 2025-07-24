@@ -12,9 +12,9 @@ This is the Express.js backend for a doctor-patient platform that supports Googl
 
 Clone the repository:
 
-git clone https://github.com/SRR23/Doctor-Patient-API.git
-cd Doctor-Patient-API
-npm install
+- git clone https://github.com/SRR23/Doctor-Patient-API.git
+- cd Doctor-Patient-API
+- npm install
 
 ## 🔑 Environment Variables
 
