@@ -19,10 +19,11 @@ Clone the repository:
 ## 🔑 Environment Variables
 
 Create a `.env` file in the root of your React project to store environment variables securely.
-MONGO_URI=mongodb://localhost:27017/your-databse-name
-PORT=5000
+
+- MONGO_URI=mongodb://localhost:27017/your-databse-name
+- PORT=5000
 
 ## Run Locally
 
-npm install
-npm run dev
+- npm install
+- npm run dev
